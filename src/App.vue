@@ -47,9 +47,8 @@ function reset2(){
 <style scoped>
 button {
   margin-left: 10px;
-  color: black;
+  color: white;
   border: none;
-  
   padding: 5px 10px;
   border-color: black;
   cursor: pointer;  
